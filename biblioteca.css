@@ -1,0 +1,22 @@
+.botao {
+    border: 3px solid rgb(0, 0, 0);
+    background-color: #4CAF50; /* Cor de fundo verde */
+    border: none; /* Remove a borda */
+    color: #f8f8fa; /* Cor do texto */
+    padding: 15px 32px; /* Espaçamento interno */
+    text-align: center; /* Alinha o texto no centro */
+    text-decoration: none; /* Remove o sublinhado */
+    display: inline-block; /* Exibe os botões na mesma linha */
+    font-size: 16px; /* Tamanho da fonte */
+    margin: 10px; /* Margem entre os botões */
+    cursor: pointer; /* Cursor de mãozinha */
+    border-radius: 5px; /* Bordas arredondadas */
+    transition: background-color 0.3s; /* Transição suave ao passar o mouse */    }
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
